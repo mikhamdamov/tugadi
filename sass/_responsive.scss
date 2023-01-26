@@ -1,0 +1,50 @@
+  @media only screen and (max-width: 1200px) {
+    span.two-span {
+      position: relative;
+      top: -600px;
+      left: 70%;
+      width: 632px;
+    }
+    span.tre-span {
+      margin-top: -700px;
+    }
+    header{
+        width: 500%;
+    }
+    // nav{
+    //     height: 200vh
+    // }
+    // .conatiner{
+    //     height: 400vh
+    // }
+    span.one-span {
+      position: relative;
+      top: 190px;
+      left: 0%;
+      width: 632px;
+    }
+    .number-hh{
+          transform: translate(-1200px , 200px) ;
+        
+    }
+    .number-h{
+          transform: translate(-1200px , 200px) ;
+        
+    }
+    span.tre-span{
+        position: absolute;
+        top: 350%;
+    }
+    .tre{
+        margin-top: -330px;
+    }
+    .n{
+        position: absolute;
+        display:inline-block;
+        width: 500%;
+        height: 500%;
+    }
+    nav{
+      width: 100vw;
+    }
+}

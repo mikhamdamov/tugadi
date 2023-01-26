@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+a {
+  text-decoration: none;
+  color: #FBD784;
+}
+ul {
+  list-style: none;
+}
+.flex {
+  display: flex;
+}
+.ul {
+  display: flex;
+  gap: 40px;
+}
+.container {
+  margin: 0 auto;
+  width: 1040px;
+}
+ .h2 {
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 77px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+    .h1  {
+    font-weight: 700;
+    font-size: 240px;
+    line-height: 240px;
+    color: #24343c;
+  }
+.logo{
+    width: 108px;
+height: 24px;
+}
